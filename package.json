@@ -1,0 +1,21 @@
+{
+  "name": "herokuthing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhwlffk1028/herokuthing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhwlffk1028/herokuthing/issues"
+  },
+  "homepage": "https://github.com/rhwlffk1028/herokuthing#readme"
+}
