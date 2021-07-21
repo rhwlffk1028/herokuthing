@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rhwlffk1028/herokuthing/issues"
   },
-  "homepage": "https://github.com/rhwlffk1028/herokuthing#readme"
+  "homepage": "https://github.com/rhwlffk1028/herokuthing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
